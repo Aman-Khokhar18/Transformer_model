@@ -130,14 +130,3 @@ MIT License
 
 Inspired by the original [Attention is All You Need](https://arxiv.org/abs/1706.03762) paper.
 Thanks to [HuggingFace](https://huggingface.co/) for datasets and tokenizer tools.
-
----
-
-## 💬 Questions?
-
-Feel free to open an [issue](https://github.com/your-repo/issues) or start a discussion!
-
-```
-
-Let me know if you’d like the README to include visuals (like the Transformer architecture diagram), Colab links, or additional CLI usage examples.
-```
