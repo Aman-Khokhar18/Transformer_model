@@ -120,11 +120,6 @@ PREDICTED:  Die Geschichte ist über einen Jungen, der einen Drachen findet.
 
 ---
 
-## 📜 License
-
-MIT License
-
----
 
 ## ✨ Acknowledgments
 
